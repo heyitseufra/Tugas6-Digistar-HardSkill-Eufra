@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Color Definitions */
+.text-white-500 {
+  color: #ffffff; 
+}
+.text-blue {
+    color: #3e6dab; 
+  }
