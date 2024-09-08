@@ -1,6 +1,5 @@
 # Mini Challenge
 # 🚀 Finance Website
-![UI](https://drive.google.com/file/d/1zHwGUdkPqMhaw9E0fBEOe-no41oJWa_R/view?usp=sharing)
 
 # Getting Started with Create React App
 Welcome to the Profile Dashboard and Settings project, built with React! This project provides a fully functional and customizable user profile management system.
