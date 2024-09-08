@@ -1,8 +1,12 @@
-# Personal Finance Web App - Digistar Frontend Final Challenge
+@ -1,50 +1,21 @@
+# Mini Challenge
+# 🚀 Finance Website
 
-<img width="1440" alt="Screenshot 2024-09-05 at 18 37 12" src="https://github.com/user-attachments/assets/4580051a-814e-4280-a063-6ea52bb4e40a">
+![2105fc29-4db5-40c6-968f-12537e95adf0](https://github.com/user-attachments/assets/70e02a57-b3fc-4ef0-9ac5-1d18c1f6c9da)
+![UI]([https://drive.google.com/uc?id=1yFA6UM7pwEC_fZSQ_sjhYSvelOWYRI0-](https://drive.google.com/file/d/1zHwGUdkPqMhaw9E0fBEOe-no41oJWa_R/view?usp=sharing))
 
 # Getting Started with Create React App
+Welcome to the Profile Dashboard and Settings project, built with React! This project provides a fully functional and customizable user profile management system.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -24,6 +28,12 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+## 📑 Table of Contents
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Screenshots](#-screenshots)
+- [Learn More](#learn-more)
+- [Contact](#-contact)
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -44,7 +54,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
+## 🚀 Getting Started
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To get started, follow these steps:
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repository:
+   ```bash
+   git clone https://https://github.com/heyitseufra/Tugas5-Digistar-HardSkill-Eufra
